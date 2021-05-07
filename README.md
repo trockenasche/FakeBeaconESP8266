@@ -4,6 +4,12 @@ Fake beacon frames for ESP8266 using the Arduino IDE
  
 Compiled with Arduino 1.6.9 and esp8266 2.1.0, but other versions should work too.
 
+## Corona-Edition
+
+Now with vaccine chips!
+
+![](VaccineChips.png)
+
 ## Now with rickroll!
 
 <img src="https://github.com/markszabo/FakeBeaconESP8266/raw/master/rickroll.png" width="300">
